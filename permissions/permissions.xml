@@ -2169,6 +2169,21 @@
                 <RunTimePermissions></RunTimePermissions>
             </Entity>
             <Entity
+             name="TestDevopsThing22"
+             type="Thing">
+                <VisibilityPermissions>
+                    <Visibility></Visibility>
+                </VisibilityPermissions>
+                <DesignTimePermissions>
+                    <Create></Create>
+                    <Read></Read>
+                    <Update></Update>
+                    <Delete></Delete>
+                    <Metadata></Metadata>
+                </DesignTimePermissions>
+                <RunTimePermissions></RunTimePermissions>
+            </Entity>
+            <Entity
              name="PTC.Simulator03.Thing"
              type="Thing">
                 <VisibilityPermissions>
